@@ -1,4 +1,4 @@
-- 👋 Hello, I am @flokosoft
+- 👋 Hello, I'm @flokosoft and I'm from Germany.
 - 👀 I'm interested in flying and programming
 - 🌱 I'm currently learning C#
 - 💞️ I'm interested in working with like-minded people.
