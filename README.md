@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @flokosoft and I'm from Germany.
 - 👀 I'm interested in flying and programming
-- 🌱 I'm currently learning C#
+- 🌱 I'm currently learning C# & C/C++
 - 💞️ I'm interested in working with like-minded people.
 - 📫 This is how you can reach me 
 
